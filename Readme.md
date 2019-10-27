@@ -1,6 +1,13 @@
-first point
+Technologies:
+You will need to install: expo-cli
+using command:
+npm install -g expo-cli
 
-add some changes in Ryan
+Running:
+use the command:
+cd projectname
+yarn start
 
-another change
-
+Authors:
+Minqi Yu
+minqi@email.sc.edu
