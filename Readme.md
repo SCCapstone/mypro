@@ -6,6 +6,7 @@ npm install -g expo-cli
 Running:
 use the command:
 cd projectname
+npm install
 yarn start
 
 Authors:
