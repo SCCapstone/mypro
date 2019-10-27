@@ -1,0 +1,10 @@
+first point
+
+<<<<<<< HEAD
+change in master
+=======
+add some changes in Ryan
+
+another change
+
+>>>>>>> Ryan
